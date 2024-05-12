@@ -27,7 +27,7 @@
         android:id="@+id/create_account_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Create an Account"
+        android:text="@string/create_an_account"
         android:layout_below="@id/login_button"
         android:layout_centerHorizontal="true"/>
 

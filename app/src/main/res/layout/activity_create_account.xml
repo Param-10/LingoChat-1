@@ -37,7 +37,7 @@
         android:inputType="textPassword" />
 
     <Button
-        android:id="@+id/create_account_button"
+        android:id="@+id/create_account_button2"
         android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:layout_below="@id/password_edit_text"
