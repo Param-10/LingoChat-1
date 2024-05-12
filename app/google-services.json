@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237039870115",
+    "project_id": "lingo-chat-1",
+    "storage_bucket": "lingo-chat-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237039870115:android:d3d9632e3ee8366e0adf16",
+        "android_client_info": {
+          "package_name": "com.example.lingochat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh0Bl96I6fXhbDrLSunZpAaGZPryKnZ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
