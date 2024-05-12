@@ -8,7 +8,7 @@
         android:id="@+id/title_text_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Create an Account"
+        android:text="@string/create_an_account"
         android:textSize="24sp"
         android:textStyle="bold"
         android:layout_centerHorizontal="true"
@@ -21,7 +21,8 @@
         android:layout_below="@id/title_text_view"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="16dp"
-        android:hint="Email"
+        android:autofillHints=""
+        android:hint="@string/email"
         android:inputType="textEmailAddress" />
 
     <EditText
@@ -31,7 +32,8 @@
         android:layout_below="@id/email_edit_text"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="16dp"
-        android:hint="Password"
+        android:autofillHints=""
+        android:hint="@string/password"
         android:inputType="textPassword" />
 
     <Button
@@ -41,6 +43,6 @@
         android:layout_below="@id/password_edit_text"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="32dp"
-        android:text="Create Account" />
+        android:text="@string/create_account" />
 
 </RelativeLayout>
