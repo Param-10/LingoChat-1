@@ -37,5 +37,5 @@ firebase-auth-ktx = { group = "com.google.firebase", name = "firebase-auth-ktx",
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
-jetbrains-kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+jetbrains-kotlin-android = { id = "org.jetbrains.kotlin.android", version = "1.9.0" }
 
